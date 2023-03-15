@@ -1,0 +1,8 @@
+{
+  "name": "Pom Pom App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "7a256a56"
+}
